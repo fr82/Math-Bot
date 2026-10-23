@@ -12,6 +12,7 @@ guild_id = #server_id_here
 bottoken = "bottokenhere"
 
 
+
 intents = discord.Intents.default()
 client = discord.Client(intents=intents)
 tree = app_commands.CommandTree(client)
