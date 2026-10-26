@@ -8,7 +8,7 @@ import discord
 from discord.ext import commands, tasks 
 from discord import Embed, ui, app_commands
 
-guild_id = #server_idhere
+guild_id = #server_id_here
 bottoken = "bottokenhere"
 
 
