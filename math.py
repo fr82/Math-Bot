@@ -4,7 +4,6 @@ import re
 import random
 import io
 import os
-
 import discord
 from discord.ext import commands, tasks 
 from discord import Embed, ui, app_commands
