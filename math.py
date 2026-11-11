@@ -20,9 +20,7 @@ tree = app_commands.CommandTree(client)
 
 
 def gen_problem():
-    """
-    Gnerates our integral
-    """
+    # generate the integral
 
     problem_type = random.choice(["substitution", "by_parts", "trig", "partial_fractions", "exp_trig"])
 
